@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://getdevbase.com/storage/app/app-icon-1775654880.png" width="110" alt="DevBase Logo">
+  <img src="https://avatars.githubusercontent.com/u/283969436?s=400&u=f3204650927056192fb865ee143af81564ccc0b4&v=4" width="110" alt="DevBase Logo">
 </p>
 
 <h1 align="center">DevBase</h1>
